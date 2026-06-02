@@ -3,8 +3,6 @@
 
 **ZenFlow Mobile** is the Android companion to [ZenFlow](https://github.com/placeholder/zenflow), bringing the same calm, focused productivity experience to your phone. Built with Expo and React Native, it features a touch-optimized UI, push notifications, and full Supabase cloud sync — so your tasks, habits, and sessions stay in perfect harmony across devices.
 
-> 🔒 **This is a closed-source project.** Only the APK is distributed publicly. The source code is not available.
-
 ---
 
 ## 🎯 Purpose
@@ -35,7 +33,7 @@ ZenFlow Mobile is a React Native application built with Expo, featuring local pe
 - **Expo** — Managed React Native workflow for cross-platform development
 - **React Native** — Core mobile UI framework
 - **React Navigation** — Screen routing and navigation stack
-- 
+  
 ### 🧠 Back-End & Data
 - **Supabase JS SDK** — Cloud authentication and real-time database sync
 - **AsyncStorage** — Local offline-first data persistence
