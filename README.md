@@ -2,6 +2,7 @@
 # 🌊 ZenFlow — Mobile
 
 **ZenFlow Mobile** is the Android companion to [ZenFlow](https://github.com/placeholder/zenflow), bringing the same calm, focused productivity experience to your phone. Built with Expo and React Native, it features a touch-optimized UI, push notifications, and full Supabase cloud sync — so your tasks, habits, and sessions stay in perfect harmony across devices.
+**Download the latest APK** from here [APK](https://github.com/alvinwafi/ZenFlow-MobileApp/releases/download/apk/ZenFlow.apk).
 
 ---
 
